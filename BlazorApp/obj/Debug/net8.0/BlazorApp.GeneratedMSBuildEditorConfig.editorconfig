@@ -22,6 +22,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Programming/Externity akademie/Unit 4/BlazorApp/Components/Calculator/History.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYWxjdWxhdG9yXEhpc3RvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Externity akademie/Unit 4/BlazorApp/Components/Pages/Calculator.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxjdWxhdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Programming/Externity akademie/Unit 4/BlazorApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
